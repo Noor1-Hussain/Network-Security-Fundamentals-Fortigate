@@ -47,26 +47,23 @@ This project focuses on understanding core network security concepts and applyin
 ---
 
 ## 📂 Repository Structure
-Network-Security-FortiGate-Project/
+Network-Security-FortiGate/
 │
-├── README.md              
+├── README.md
 │
-├── Report/
-│   └── Final_Report.pdf
+├── report/
+│   └── final_report.pdf
 │
-├── Documentation/
-│   ├── FortiGate_Configuration.pdf
-│   └── Screenshots/
-│       ├── policy_config.png
-│       ├── nat_setup.png
+├── documentation/
+│   ├── week_1_documentation.pdf
+│   ├── week_2_documentation.pdf
+│   └── week_3_documentation.pdf
 │
-├── Presentation/
-│   └── Final_Presentation.pptx
+├── presentation/
+│   └── final_presentation.pptx
 │
-└── References/
+└── references/
     └── references.txt
-
-
 
 
 
