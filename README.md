@@ -55,15 +55,14 @@ Network-Security-FortiGate/
 │   └── final_report.pdf
 │
 ├── documentation/
-│   ├── week_1_documentation.pdf
-│   ├── week_2_documentation.pdf
-│   └── week_3_documentation.pdf
+│   ├── week_1_documentation.pdf     
+│   ├── week_2_documentation.docx    
+│   ├── week_3_documentation.docx    
 │
 ├── presentation/
-│   └── final_presentation.pptx
+│   └── final_presentation.pdf       
 │
 └── references/
     └── references.txt
-
 
 
