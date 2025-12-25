@@ -1,4 +1,4 @@
-# Network Security Fundamentals and FortiGate Integration
+# Network Security and FortiGate Integration
 
 ## 📌 Project Overview
 This project focuses on understanding core network security concepts and applying them through hands-on configuration of a FortiGate firewall. The goal is to bridge theoretical knowledge with practical firewall implementation.
